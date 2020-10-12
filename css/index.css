@@ -1,0 +1,18 @@
+.bg-video-wrap {
+  position: relative;
+}
+p {
+  font-family: serif;          
+  color: #fff;
+  font-size: 400%;
+  position: absolute;
+  left: 30%;
+  top: 100px;
+  z-index: 1;
+}
+
+.video-wrap {
+  position: relative;
+
+
+}

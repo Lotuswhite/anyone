@@ -18,10 +18,10 @@ html {
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-size: 18px;
-  line-height: 34px;
+  /* line-height: 34px; */
   background: #222222;
-  font-weight: 300;
-  opacity: 0;
+  /* font-weight: 300; */
+  /* opacity: 0; */
   color: #222;
 }
 
@@ -40,7 +40,7 @@ a:hover, a:active, a:focus {
 }
 
 p, figure {
-  margin-bottom: 1.5em;
+  /* margin-bottom: 1.5em; */
 }
 
 h1, h2, h3, h4, h5, h6 {
